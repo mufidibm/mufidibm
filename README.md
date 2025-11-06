@@ -10,10 +10,8 @@
 <img src="https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white"/>  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 
-
 ##### Reach Me
-![https://instagram.com/mfidd.i](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mfidd.i)
 
 ##### Github Stats
 ![Mufid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mufidibm&show_icons=true&theme=radical&hide_rank=true)
